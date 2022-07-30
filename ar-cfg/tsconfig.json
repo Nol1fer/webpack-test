@@ -11,5 +11,6 @@
         // import syntax in TS
         "allowSyntheticDefaultImports": true,
         "esModuleInterop": true,
-    }
+    },
+    "exclude": ["node_modules"], // not sure 
 }
