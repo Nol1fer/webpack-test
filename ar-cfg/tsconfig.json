@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir": "../dist/",
+        "sourceMap": true,
+        "module": "es6", // syntax of imports
+        "target": "es5", // in which version transpile
+        "moduleResolution": "node",
+        // strict
+        "strict": true,
+        "noImplicitAny": true,
+        // import syntax in TS
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+    }
+}
